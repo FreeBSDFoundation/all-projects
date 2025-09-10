@@ -1,4 +1,8 @@
 # All Projects
+>NOTE: this repo is still under construction, so please bookmark it and come back to see how it develops over time!
+>
+>All information give is accurate, but there is more content due to be added.  We are in the process of tidying it up and porting it across from the Foundation's internal documents.
+
 ## FreeBSD Foundation Projects
 
 This repository provides information about projects that have been funded by the **FreeBSD Foundation**. This includes projects undertaken by Foundation staff and those completed by third-party contractors and grant recipients.
