@@ -29,9 +29,9 @@ R = Responsible, A = Accountable , C = Consulted, I = Informed
 | Write documentation to accompany new processes and tools | | 
 
 ## Quick links
-[Latest Updates](https://github.com/FreeBSDFoundation/Project-STA-A-Tech-Debt/tree/main/Updates)
+[Latest Updates](Updates)
 
-[Meeting Notes](https://github.com/FreeBSDFoundation/Project-STA-A-Tech-Debt/tree/main/Meeting-Notes)
+[Meeting Notes](Meeting%20Notes)
 
 [Foundation blog about the Sovereign Tech Agency commission](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 

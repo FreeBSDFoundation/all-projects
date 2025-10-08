@@ -36,7 +36,7 @@ R = Responsible, A = Accountable , C = Consulted, I = Informed
 ## Quick links
 [Latest Updates](Updates)
 
-[Meeting Notes](Meeting-Notes)
+[Meeting Notes](Meeting%20Notes)
 
 [Foundation blog about the Sovereign Tech Agency commission](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 
