@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project was completed at the end of December 2025.
+
 # Program Brief and FAQs
 
 ## Sovereign Tech Agency FreeBSD investment for 2024-25
