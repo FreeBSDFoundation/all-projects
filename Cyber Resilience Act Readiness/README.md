@@ -72,7 +72,7 @@ Further thought is needed to determine whether some requests should have a forma
 
 Duration: 12 months  
 Scheduling: Jan 2026 \- December 2026  
-Resource allocation: 10%   
+Resource allocation: 10% FTE  
 Target outcome: 7 (see “Outcomes” in table above).
 
 ## Public project repo 
@@ -83,7 +83,7 @@ The purpose of this is to provide regular detailed updates about the work done a
 
 Duration: 12 months  
 Scheduling: Jan 2026 \- December 2026  
-Resource allocation: 15%   
+Resource allocation: 15% FTE   
 Target outcome: 8 (see “Outcomes” in table above).
 
 ## Communications 
@@ -92,7 +92,7 @@ The Foundation will communicate periodically through blogs, social media etc. Th
 
 Duration: 12 months  
 Scheduling: Jan 2026 \- December 2026  
-Resource allocation: 15%   
+Resource allocation: 15% FTE   
 Target outcome: all outcomes (see “Outcomes” in table above).
 
 # FAQs
