@@ -1,6 +1,10 @@
 # Open Consultations and Community Initiatives
 
-Note: this is a best effort and may not be complete
+This page lists all known 3rd-party *Requests for Information* that relate to the EU Cyber Resilience Act. The FreeBSD Foundation has compiled this list as a resource for the community to make it easier for anyone to engage in policy development, or the broader FOSS community response to the CRA. 
+
+This page will be updated periodically, and new entries will be shared in relevant FreeBSD mailing lists (e.g. Security, Enterprise Working Group).
+
+Note: this is a best effort and may not be complete.
 
 ## Standards
 
