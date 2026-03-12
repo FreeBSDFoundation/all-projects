@@ -17,6 +17,11 @@
 >The CRA is a new piece of legislation and the real-world implementation, best practice, and other implications are constantly evolving.
 >Therefore, you should expect to see the scope of this project adapt over time as our understanding develops.
 
+# Quick links
+* [Project launch blog post](https://freebsdfoundation.org/blog/getting-ready-for-the-cyber-resilience-act/)
+* [Monthly updates](monthly-updates/)
+* [Open Consultations and Community Initiatives](legislative-engagement/requests-for-input.md) 
+
 # Workstreams
 
 ## Security, and vulnerability handling 
