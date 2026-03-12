@@ -12,10 +12,9 @@ Give your feedback directly to the EU agencies that make policy decisions.
 
 | Category | Title | Organisation | Description | Main Link | Relevant to | Who can respond? | Shared in | Foundation responded? | Closing date |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Standards | Draft Commission guidance on the Cyber Resilience Act | European Commission | The European Commission is preparing a Communication that will provide guidance on how to apply the Cyber Resilience Act (CRA) in practice. The guidance will help manufacturers, developers, and other stakeholders understand their obligations under the Regulation and ensure a consistent approach across the EU. It will clarify how key provisions of the CRA should be interpreted and implemented. Stakeholders are encouraged to submit their comments to this consultation by using the attached template, in order to facilitate feedback consolidation. | https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16959-Draft-Commission-guidance-on-the-Cyber-Resilience-Act\_en | Stewards Maintainers Manufacturers | Anyone | freebsd-security@freebsd.org | The Foundation will respond through the [Open Regulatory Compliance (ORC) Working Group](https://github.com/orcwg/orcwg) | 31 March 2026  (midnight Brussels time) |
 |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-
+|  |  |  |  |  |  |  |  |  |  |    
 ## Surveys
 
 Help shape the understanding of the Open Source community and other NGOs that interact with the EU agencies.
