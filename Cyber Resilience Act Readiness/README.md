@@ -102,7 +102,8 @@ Target outcome: all outcomes (see “Outcomes” in table above).
 
 # FAQs
 
-NOTE: This FAQ is intended for informational purposes only and does not constitute legal advice. Organizations should consult qualified legal counsel regarding their obligations under the EU Cyber Resilience Act.
+>[!Note]
+>This FAQ is intended for informational purposes only and does not constitute legal advice. Organizations should consult qualified legal counsel regarding their obligations under the EU Cyber Resilience Act.
 
 ### How can I learn more about the CRA?
 
