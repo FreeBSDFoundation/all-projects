@@ -20,7 +20,10 @@
 # Quick links
 * [Project launch blog post](https://freebsdfoundation.org/blog/getting-ready-for-the-cyber-resilience-act/)
 * [Monthly updates](monthly-updates/)
-* [Open Consultations and Community Initiatives](legislative-engagement/requests-for-input.md) 
+* [Open Consultations and Community Initiatives](legislative-engagement/requests-for-input.md)
+
+# Get in touch
+You can email CRA@freebsdfoundation.org with any questions.. 
 
 # Workstreams
 
