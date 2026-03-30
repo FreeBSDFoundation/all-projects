@@ -23,7 +23,7 @@
 * [Open Consultations and Community Initiatives](legislative-engagement/requests-for-input.md)
 
 # Get in touch
-You can email CRA@freebsdfoundation.org with any questions.. 
+You can email CRA@freebsdfoundation.org with any questions. 
 
 # Workstreams
 
