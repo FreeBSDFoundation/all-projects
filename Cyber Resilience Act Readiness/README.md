@@ -112,20 +112,22 @@ Target outcome: all outcomes (see “Outcomes” in table above).
 
 In these FAQs, the Foundation aims to share the key information you need to know. However, there is far more information about the CRA out there which you can access to learn more. Here are a few resources you may find useful. 
 
-* If you want to see a short intro from the downstream vendors (Manufacturers) side:  
+* The project launch blog post from the FreeBSD Foundation:
+  * [https://freebsdfoundation.org/blog/getting-ready-for-the-cyber-resilience-act/]
+* A short intro from the downstream vendors (Manufacturers) side:  
   * [https://www.youtube.com/watch?v=f6V1aregBeU](https://www.youtube.com/watch?v=f6V1aregBeU)   
-* If you like reading the original legal text:  
-  * Full legal text of CRA [https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng)   
-* If you want to see an introduction to CRA at the FreeBSD Vendor Summit by Michael Winser:   
+* The original legal text:  
+  * Full legal text of CRA [https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng)
+* An introduction to CRA at the FreeBSD Vendor Summit by Michael Winser:   
   * [https://youtu.be/MVTCjq0Kg94?si=LCuhlpz8K2mPHd\_F\&t=824](https://youtu.be/MVTCjq0Kg94?si=LCuhlpz8K2mPHd_F&t=824)   
-* If you want to see what some of the Open Source Community is doing  
+* What some of the Open Source Community is doing  
   * Open Regulatory Compliance (ORC) Working Group [https://orcwg.org/](https://orcwg.org/)   
-* If you want a CRA 101 from the open source perspective   
+* CRA 101 from the open source perspective   
   * OpenSSF [https://openssf.org/public-policy/eu-cyber-resilience-act/](https://openssf.org/public-policy/eu-cyber-resilience-act/)   
   * Linux Foundation [https://linuxfoundation.eu/cyber-resilience-act](https://linuxfoundation.eu/cyber-resilience-act)   
-* If you want to see the Foundation’s initial statement on the CRA (Feb 2024\)  
+* The FreeBSD Foundation’s initial statement on the CRA (Feb 2024\)  
   * [https://freebsdfoundation.org/blog/freebsd-foundation-statement-on-the-european-union-cyber-resiliency-act/](https://freebsdfoundation.org/blog/freebsd-foundation-statement-on-the-european-union-cyber-resiliency-act/)   
-* If you want to read some CRA FAQs that have been prepared by an open source group  
+* Some CRA FAQs that have been prepared by an open source group  
   * [https://cra.orcwg.org/faq/all/](https://cra.orcwg.org/faq/all/) 
 
 ## Overview
@@ -150,11 +152,11 @@ Under the EU Cyber Resilience Act, a product with digital elements is a software
 
 Examples may include:
 
-* operating systems and system software  
-* network devices and appliances  
-* embedded systems  
-* connected devices  
-* commercial software applications
+* Operating systems and system software  
+* Network devices and appliances  
+* Embedded systems  
+* Connected devices  
+* Commercial software applications
 
 The regulation primarily targets products placed on the market, not upstream software development projects that publish source code.
 
@@ -165,9 +167,9 @@ The CRA entered into force on 10 December 2024\.
 Key compliance milestones include:
 
 * 11 September 2026 – vulnerability reporting obligations begin  
-* 11 December 2027 – the main cybersecurity requirements (including secure-by-default design) apply to products placed on the EU market
+* 11 December 2027 – the main cybersecurity requirements (including secure-by-design and secure-by-default) apply to products placed on the EU market
 
-Products already on the market before December 2027 are generally only affected if they undergo substantial modification after that date.
+Products already on the market before December 2027 are generally only subject to secure-by-design and secure-by-default requirements if they undergo substantial modification after that date. All products on the market are subject to the vulnerability reporting obligations.
 
 ## Impact on Open Source
 
@@ -185,13 +187,13 @@ No.
 
 Individuals contributing to open source projects are generally exempt from obligations under the CRA, even when they are paid to contribute to the project.
 
-Contributing code to the FreeBSD Project does not make a developer responsible for CRA compliance
+Contributing code to the FreeBSD Project does not make a developer responsible for CRA compliance.
 
 ### What is an “open source steward” under the CRA?
 
 The CRA introduces the concept of an open source steward. This is an organization that supports an open source project but does not place products on the market.
 
-The FreeBSD Foundation is likely to fall into this category, although the exact classification ultimately depends on how the regulation is interpreted and applied in practice.
+The FreeBSD Foundation is an open source steward for the FreeBSD Project.
 
 Open source stewards have limited responsibilities under the CRA and are not subject to the manufacturer penalties defined in the regulation.
 
@@ -201,10 +203,10 @@ Individuals cannot be classified as open source stewards.
 
 The CRA does not directly regulate open source development. However, projects that are widely used in commercial products may choose to strengthen practices such as:
 
-* vulnerability disclosure processes  
-* security documentation  
-* dependency metadata  
-* software component inventories
+* Vulnerability disclosure processes  
+* Security documentation  
+* Dependency metadata  
+* Software component inventories
 
 These improvements can help downstream users meet regulatory requirements while maintaining the open development model.
 
@@ -214,15 +216,15 @@ There is active collaboration in the FOSS ecosystem to devise mechanisms to gain
 
 ### Who is responsible for CRA compliance when FreeBSD is used in a product?
 
-Responsibility generally lies with the manufacturer or vendor placing the product on the EU market, not with the upstream project.
+Responsibility for CRA compliance lies with the manufacturer or vendor placing the product on the EU market, not with the upstream project.
 
 Companies building products that include components from the FreeBSD Project may need to:
 
-* manage cybersecurity risks across the product lifecycle  
-* document software components used in their product  
-* provide security updates  
-* generate Software Bills of Materials (SBOMs)  
-* report actively exploited vulnerabilities
+* Manage cybersecurity risks across the product lifecycle  
+* Document software components used in their product  
+* Provide security updates  
+* Generate Software Bills of Materials (SBOMs)  
+* Report actively exploited vulnerabilities
 
 These obligations apply to the product vendor, not to the FreeBSD Project itself.
 
@@ -232,7 +234,7 @@ The FreeBSD Project publishes source code and binary releases that are freely av
 
 These releases are typically not considered commercial products placed on the EU market. However, organizations that package FreeBSD into a commercial product or service may have compliance obligations under the CRA.
 
-### What vulnerability reporting deadlines does the CRA require?
+### What vulnerability reporting deadlines does the CRA impose?
 
 If a vulnerability in a product is actively exploited, manufacturers placing that product on the EU market must report it through the CRA reporting system with strict deadlines:
 
@@ -254,9 +256,9 @@ Even though open source projects are largely exempt from direct regulatory oblig
 
 Examples may include requests for:
 
-* security documentation  
-* vulnerability information  
-* component metadata  
+* Security documentation  
+* Vulnerability information  
+* Component metadata  
 * SBOM data
 
 ### What is a “due diligence denial-of-service” scenario?
@@ -273,9 +275,9 @@ Potentially.
 
 Manufacturers evaluating software components may increasingly prefer projects that provide:
 
-* clear security processes  
-* transparent vulnerability management  
-* reliable component metadata  
+* Clear security processes  
+* Transparent vulnerability management  
+* Reliable component metadata  
 * SBOM information
 
 Projects that prepare early for these expectations may become more attractive for industry adoption.
@@ -290,10 +292,11 @@ The CRA may encourage organizations that rely on open source to invest more in t
 
 Possible outcomes include:
 
-* funding for upstream development  
-* sponsorship of security improvements  
-* dedicated maintainers working on upstream projects  
-* stronger collaboration between manufacturers and open source communities
+* Funding for upstream development  
+* Sponsorship of security improvements  
+* Dedicated maintainers working on upstream projects  
+* Stronger collaboration between manufacturers and open source communities
+* Paying for official documentation that support their due diligence needs (e.g. security attestations) 
 
 Projects that proactively prepare for the new environment may benefit most from these opportunities.
 
@@ -305,10 +308,11 @@ The FreeBSD Foundation launched its Cyber Resilience Act Readiness Project in 20
 
 The goals of this effort include:
 
-* ensuring the Foundation fulfills its responsibilities as an open source steward  
-* protecting the FreeBSD Project from disruption as manufacturers adapt to the CRA  
-* helping downstream users understand the information they may need for compliance  
-* ensuring that contributors understand they are not personally exposed to liability under the legislation.
+* Ensuring the Foundation fulfils its responsibilities as an open source steward  
+* Protecting the FreeBSD Project from disruption as manufacturers adapt to the CRA
+* Engaging with manufacturers to seek support and insights
+* Helping downstream users understand the information they may need for compliance  
+* Ensuring that contributors understand they are not personally exposed to liability under the legislation.
 
 ### What areas does the CRA readiness project cover?
 
