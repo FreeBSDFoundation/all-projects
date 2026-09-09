@@ -21,7 +21,8 @@
 * [Project launch blog post](https://freebsdfoundation.org/blog/getting-ready-for-the-cyber-resilience-act/)
 * [Monthly updates](monthly-updates/)
 * [Open Consultations and Community Initiatives](legislative-engagement/requests-for-input.md)
-
+* [Guide to the CRA for FreeBSD business users](https://freebsdfoundation.org/guide-to-the-cra-for-freebsd-business-users/)
+* [Guide to the CRA for FreeBSD community members](https://freebsdfoundation.org/guide-to-the-cra-for-freebsd-community-members/)
 # Get in touch
 You can email CRA@freebsdfoundation.org with any questions. 
 
