@@ -22,7 +22,7 @@ Help shape the understanding of the Open Source community and other NGOs that in
 
 | Category | Title | Organisation | Description | Main Link | Relevant to | Who can respond? | Shared in | Foundation responded? | Closing date |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Survey |ENISA SME CRA Investments Survey 2026  | ENISA |This survey focuses only on cybersecurity-related investments. It aims to understand: What SMEs are currently spending on cybersecurity; What investments they expect to make in the near future; How these investments relate to meeting CRA requirements.  | https://ec.europa.eu/eusurvey/runner/SME_CRA_Investments_2026 |  Micro, small and medium-sized enterprises (SMEs) that develop, sell, or manage products with digital elements in the EU | Manufacturers | freebsd-security@FreeBSD.org | N/A | None given |
+| Survey |ENISA SME CRA Investments Survey 2026  | ENISA (European Union Agency for Cybersecurity) |This survey focuses only on cybersecurity-related investments. It aims to understand: What SMEs are currently spending on cybersecurity; What investments they expect to make in the near future; How these investments relate to meeting CRA requirements.  | https://ec.europa.eu/eusurvey/runner/SME_CRA_Investments_2026 | Manufacturers  |  Micro, small and medium-sized enterprises (SMEs) that develop, sell, or manage products with digital elements in the EU | freebsd-security@FreeBSD.org, freebsd-enterprisewg@freebsd.org | N/A | None given |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
