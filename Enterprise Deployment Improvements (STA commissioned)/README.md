@@ -2,7 +2,7 @@
 
 ## Sovereign Tech Agency FreeBSD investment for 2026
 
-| Program Name | Improvements for Production Quality FreeBSD Enterprise Deployments |
+| Program Name | FreeBSD Improvements for Enterprise|
 | :---- | :---- |
 | Funding Body | [Sovereign Tech Agency](https://www.sovereigntechfund.de/) |
 | Funding Status | Approved on October 9, 2026 |
