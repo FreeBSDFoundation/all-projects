@@ -13,9 +13,9 @@
 
 # Quick Links
 
-* FreeBSD Foundation’s project launch blog  
-* Monthly updates  
-* Sovereign Tech Agency’s project launch announcement
+* FreeBSD Foundation’s project launch blog  (TBC)
+* Monthly updates  (TBC)
+* Sovereign Tech Agency’s project launch announcement (TBC)
 
 # Work packages
 
