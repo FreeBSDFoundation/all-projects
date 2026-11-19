@@ -115,7 +115,7 @@ Better developer tooling will make it easier to review and validate changes acro
    7. Reviewer and maintainer routing: Build on existing work to suggest reviewers for an externally submitted patch, flag changes with no maintainer, and track maintainer-timeout deadlines.  
 4. Adoption and handover. Documentation for each tool, an announcement and walkthrough for committers, and an identified maintainer or team within the Project for each tool after the funding period ends.
 
-## Work Package G: 
+## Work Package G: Improve FreeBSD Ports and Package infrastructure. 
 
 ### Why we chose this work
 
