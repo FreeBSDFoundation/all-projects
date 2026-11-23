@@ -53,8 +53,7 @@ Pkgbase will give organizations a more consistent way to deploy and update the F
 
 ### What is included
 
-1. Develop the pkgbase functionality needed for production deployment and system  
-2. upgrades.  
+1. Develop the pkgbase functionality needed for production deployment and system upgrades.  
 3. Develop and improve rollback and recovery workflows.  
 4. Improve support for automated system upgrades.  
 5. Develop workflows for managing pkgbase upgrades across multiple systems.
