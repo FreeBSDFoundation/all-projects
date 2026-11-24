@@ -14,7 +14,7 @@
 # Quick Links
 
 * FreeBSD Foundation’s project launch blog  (TBC)
-* Monthly updates  (TBC)
+* [Monthly updates](https://github.com/FreeBSDFoundation/all-projects/tree/main/FreeBSD%20Improvements%20for%20Enterprise%20(STA%20commissioned)/Updates)
 * Sovereign Tech Agency’s project launch announcement (TBC)
 
 # Work packages
